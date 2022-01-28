@@ -1,0 +1,21 @@
+.a{
+    text-align: center;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-kerning: none;
+    padding: 30px;
+    background-color: aqua;
+    outline-style: solid;
+    outline-color: antiquewhite;
+    outline-width: 5px;
+    text-align: center;
+    border: 1px solid silver;
+}
+h4{
+    background-color: yellow;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
